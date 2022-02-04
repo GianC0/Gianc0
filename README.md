@@ -17,9 +17,7 @@
 
 
 - 📄 Know about my experiences [https://bit.ly/3J1htCb](https://bit.ly/3J1htCb)
-
 <br />
-
 <h3 align="left">Languages and Tools:</h3>
 
 
