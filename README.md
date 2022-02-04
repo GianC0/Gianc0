@@ -11,7 +11,7 @@
 
 - 🌱 Interested in **Finance and Economics**
 
-- ⚡ Always loved  **Chess** 
+- ⚡ Always into **Chess** 
 
 - 🤝 I’m looking for **Internhip / Traineeship**
 
