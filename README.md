@@ -10,7 +10,7 @@
 - 🌱 Interested in **Finance and Economics**
 
 
-- ⚡ Always into **Chess** 
+- ♗ Always into **Chess** 
 
 
 - 🤝 Looking for **Internship / Traineeship**
