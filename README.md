@@ -7,7 +7,7 @@
 
 - 🌱 Interested in **Finance and Economics**
 
-- ⚡ Always been a **Chess Player** 
+- ⚡ Always loved  **Chess** 
 
 - 🤝 I’m looking for **Internhip / Traineeship**
 
