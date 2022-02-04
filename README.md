@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://bit.ly/3J1htCb](https://bit.ly/3J1htCb)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  giancarlo.andriano3@gmail.com</h3>
 <p align="left">
 </p>
 
