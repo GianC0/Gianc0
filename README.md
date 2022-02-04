@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giancarlo Andriano</h1>
-<h3 align="center">Always imporving my skills</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232FA886&center=true&vCenter=true&lines=Always+improving+my+Skills)](https://git.io/typing-svg)
 
 
 
