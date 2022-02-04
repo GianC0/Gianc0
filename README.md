@@ -10,7 +10,7 @@
 - 📈 Interested in **Finance and Economics**
 
 
-- ♚ %20Love playing **Chess** 
+- ♜ Love playing **Chess** 
 
 
 - 🤝 Looking for **Internship / Traineeship**
