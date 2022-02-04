@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GianC0" alt="GianC0" /></a> </p>
 
-- 🌱 I’m currently learning **Finance and Economics**
+- 🌱 Interested in **Finance and Economics**
 
-- 🤝 I’m looking for **Internships**
+- ⚡ Always been a **Chess Player** 
+
+- 🤝 I’m looking for **Internhip / Traineeship**
 
 - 📄 Know about my experiences [https://bit.ly/3J1htCb](https://bit.ly/3J1htCb)
 
-- ⚡ Fun fact **I love playing Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
