@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giancarlo Andriano</h1>
 <h3 align="center">Always imporving my skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GianC0&label=Profile%20views&color=0e75b6&style=flat" alt="GianC0" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GianC0" alt="GianC0" /></a> </p>
 
@@ -14,7 +14,6 @@
 - 📄 Know about my experiences [https://bit.ly/3J1htCb](https://bit.ly/3J1htCb)
 
 
-<h3 align="left">Connect with me:  giancarlo.andriano3@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -24,4 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GianC0&show_icons=true&theme=cobalt&locale=en" alt="GianC0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GianC0&" alt="GianC0" /></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=GianC0&label=Profile%20views&color=0e75b6&style=flat" alt="GianC0" /> </p>
 
