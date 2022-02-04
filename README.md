@@ -26,9 +26,9 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GianC0&show_icons=true&theme=cobalt&locale=en" alt="GianC0" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GianC0&show_icons=true&theme=cobalt&locale=en" alt="GianC0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GianC0&" alt="GianC0" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=GianC0&" alt="GianC0" /></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=GianC0&label=Profile%20views&color=0e75b6&style=flat" alt="GianC0" /> </p>
 
