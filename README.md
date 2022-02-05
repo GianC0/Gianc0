@@ -14,7 +14,7 @@
 - 🤝 Looking for **Internship / Traineeship**
 
 
-- 🌱 Have a look at my CV --> [https://bit.ly/3J1htCb](https://bit.ly/3J1htCb)
+- 🌱 Have a look at my CV --> https://bit.ly/3J22Bn2
 
 
 <h3 align="left">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;
