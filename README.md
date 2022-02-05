@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giancarlo Andriano</h1>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F76AC5&center=true&vCenter=false&lines=Exploring+the+World;Always+improving+my+Skills"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F76AC5&center=true&vCenter=false&lines=Exploring+the+World🌍;Always+improving+my+Skills⚡"></a>
 </p>
 
 
