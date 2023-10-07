@@ -14,8 +14,6 @@
 - 🤝 Looking for **Internship / Traineeship**
 
 
-- 🌱 Ask me anything --> _giancarlo.andriano3@gmail.com_
-
 
 <h3 align="left">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
